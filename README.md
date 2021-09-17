@@ -1,26 +1,16 @@
 👋 Hi, I’m Alexandr Lavrinenko
 
-👀 I’m interested in invention, scientific and research, invention.
+👀 I’m interested in invention, research and scientific, invention.
 
 👀 Designing and developing computer systems and Linux based software;
 
 👀 Software development for multiprocessor systems, HPC-clusters, supercomputers, GRID systems.
 
-👀 Research and scientific programming;
-
-👀 Experience in the maintenance and administration of Linux clusters and supercomputers;
-
 👀 Embedded Linux software;
 
-👀 3D cloud, Image processing;
+👀 OpenSSL X509 PKI;
 
 👀 Robotics.
-
-<br>
-
-🌱 I’m currently learning ...
-
-💞️ I’m looking to collaborate on ...
 
 <br>
 
@@ -31,4 +21,12 @@
 <!---
 lavrinenkoa/lavrinenkoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+
+<br>
+
+🌱 I’m currently learning ...
+
+💞️ I’m looking to collaborate on ...
+
 --->
