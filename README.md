@@ -1,22 +1,22 @@
-👋 Hi, I’m Alexandr Lavrinenko
+👋 Hi, I’m Alexandr Lavrinenko.
 
 👀 I’m interested in invention, research and scientific, innovation.
 
-💞️ Designing and developing computer systems and Linux based software;
+💞️ Designing and developing computer systems and [Linux](https://github.com/lavrinenkoa/LinuxCourses) based software.
 
-💞️  Software development for multiprocessor systems, HPC-clusters, supercomputers, GRID systems.
+💞️  Software development for [multiprocessor systems, HPC-clusters, supercomputers, GRID systems](http://noc.grid.basnet.by/ganglia/).
 
-🌱 Embedded Linux software;
+🌱 [Embedded](https://github.com/lavrinenkoa/GPSAtom) [Linux](https://github.com/lavrinenkoa/LinuxCourses) software.
 
-🌱 OpenSSL X509 PKI;
+🌱 [OpenSSL X509 PKI.](https://github.com/lavrinenkoa/OpenSSL_rootCA_v3)
 
-💞️ Robotics.
+💞️ [Robotics.](https://github.com/lavrinenkoa/RobotUR10)
 
 <br>
 
 📫 How to reach me - allavrinenko@gmail.com
 
-📫 Linkedin - https://www.linkedin.com/in/lavrinenko-alexandr-346712112/
+📫 [Linkedin](https://www.linkedin.com/in/lavrinenko-alexandr-346712112/)
 
 <!---
 lavrinenkoa/lavrinenkoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
