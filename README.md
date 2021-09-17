@@ -2,15 +2,15 @@
 
 👀 I’m interested in invention, research and scientific, invention.
 
-👀 Designing and developing computer systems and Linux based software;
+💞️ Designing and developing computer systems and Linux based software;
 
 👀 Software development for multiprocessor systems, HPC-clusters, supercomputers, GRID systems.
 
-👀 Embedded Linux software;
+🌱 Embedded Linux software;
 
 👀 OpenSSL X509 PKI;
 
-👀 Robotics.
+💞️ Robotics.
 
 <br>
 
