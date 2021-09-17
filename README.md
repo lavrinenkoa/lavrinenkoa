@@ -4,11 +4,11 @@
 
 💞️ Designing and developing computer systems and Linux based software;
 
-👀 Software development for multiprocessor systems, HPC-clusters, supercomputers, GRID systems.
+💞️  Software development for multiprocessor systems, HPC-clusters, supercomputers, GRID systems.
 
 🌱 Embedded Linux software;
 
-👀 OpenSSL X509 PKI;
+🌱 OpenSSL X509 PKI;
 
 💞️ Robotics.
 
