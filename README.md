@@ -16,7 +16,7 @@
 
 📫 How to reach me - allavrinenko@gmail.com
 
-📫 [Linkedin](https://www.linkedin.com/in/lavrinenko-alexandr-346712112/)
+📫 [Linkedin](https://www.linkedin.com/in/lavrinenko-alexandr)
 
 <!---
 lavrinenkoa/lavrinenkoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
