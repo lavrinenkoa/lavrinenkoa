@@ -1,6 +1,10 @@
-👋 Hi, I’m Alexandr Lavrinenko.
+Hi, I’m Alexandr Lavrinenko. 👋
 
-👀 I’m interested in invention, research and scientific, innovation.
+<br>
+
+I’m interested in:
+
+👀 Invention, research and scientific, innovation.
 
 💞️ Designing and developing computer systems and [Linux](https://github.com/lavrinenkoa/LinuxCourses) based software.
 
